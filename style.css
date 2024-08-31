@@ -16,7 +16,6 @@
     padding-inline: 40px;
     padding-bottom: 25px;
     justify-content: space-between;
-  
 }
 .left h5{
     font-size: 20px;
@@ -45,9 +44,7 @@
     flex-direction: column;
 }
 .text-section h1{
-
-   text-align: center;
- 
+    text-align: center;
 }
 .text-section p{
     font-size: 15px;
@@ -59,7 +56,6 @@
     display: flex;
     justify-content: center;
     margin-top: 10px;
-   
 
 }
 .text-section span input{
@@ -112,7 +108,7 @@
     height: 40%;
     width: 300px;
     background-color: rgb(44, 152, 44);
-   padding: 30px;
+    padding: 30px;
     border-radius: 30px;
 }
 
@@ -132,18 +128,18 @@
 .box hr{
     margin-top: 20px;
 }
- .box-part{
+.box-part{
     width: 100%;
     height: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-block: 10px;
- }
- .box-part h4{
+}
+.box-part h4{
     font-size: 22px;
- }
- .i-box{
+}
+.i-box{
     width: 30px;
     height: 30px;
     background-color: black;
@@ -152,13 +148,13 @@
     justify-content: center;
     color: white;
     border-radius: 5px;
- }
- .box:nth-child(2){
+}
+.box:nth-child(2){
     background-color: blueviolet;
- }
- .box:nth-child(3){
+}
+.box:nth-child(3){
     background-color: rgb(210, 210, 35);
- }
+}
 .box:nth-child(4){
     background-color: rgb(206, 113, 46);
 }
@@ -176,41 +172,36 @@
         padding-top: 18px;
 
     }
-  .left{
+.left{
     font-size: 16px;
-  }
-  .right button{
-   
-   display: none;
-  }
-  .text-section{
+}
+.right button{
+    display: none;
+}
+.text-section{
     height: auto;
     width: 100%;
-
-  }
-  .text-section h1{
+}
+.text-section h1{
     font-size: 26px;
-  }
-    .text-section span{
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-       
+}
+.text-section span{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     }
     .text-section span button{
-        margin-top: 10px;
+    margin-top: 10px;
     }
-    .box-section{
-        height: auto;
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        
-    }
-    .box{
-        height: auto;
-        width: auto;
-        margin-top: 10px;
-    }
-    
+.box-section{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.box{
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+}
 }
